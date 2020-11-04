@@ -38,7 +38,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [What is Machine Learning? (for-grandpa edition)](https://medium.com/@andresbaymon/what-is-machine-learning-for-grandpa-edition-7479cc9f4095?source=rss-3f3c4c0f7c92------2)
+- [Hard and Symbolic links](https://medium.com/@andresbaymon/hard-and-symbolic-links-5e7a54ef2a9b?source=rss-3f3c4c0f7c92------2)
+- [Finding “.c” — “ls” is faster than a movie](https://medium.com/@andresbaymon/finding-c-ls-is-faster-than-a-movie-87d1e0e7a8fb?source=rss-3f3c4c0f7c92------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@andresbaymon)
