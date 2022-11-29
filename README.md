@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning NodeJS and Go.
 - :raised_hands: I’m into Backend development.
-- 🥅 2022 Goals: Create the bases for a ML and AI development.
+- 🥅 2023 Goals: Create the bases for Data, ML and AI development.
 - ⚡ Fun fact: I used to be a professional archer.
 
 
