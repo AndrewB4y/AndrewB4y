@@ -4,9 +4,9 @@
 
 ## I'm a Developer and Mechatronic Engineer!!
 
-- 🌱 I’m currently learning NodeJS and Go.
-- :raised_hands: I’m into Backend development.
-- 🥅 2023 Goals: Create the bases for Data, ML and AI development.
+- 🌱 I’m currently learning LLMs and Multimodals using NVIDIA technologies.
+- :raised_hands: I’m into Python Backend development.
+- 🥅 2025 Goals: Create the bases for Data, ML and AI development in partnership with NVIDIA.
 - ⚡ Fun fact: I used to be a professional archer.
 
 
